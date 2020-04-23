@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089690334203",
+    "firebase_url": "https://chatflutter-ddcaf.firebaseio.com",
+    "project_id": "chatflutter-ddcaf",
+    "storage_bucket": "chatflutter-ddcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089690334203:android:5d0e62e5157b930ed7d15e",
+        "android_client_info": {
+          "package_name": "br.com.gile.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089690334203-ehg6pvdd3j9q2od7b88gi9k7ei4pve1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gile.chat_online",
+            "certificate_hash": "92684c7607de94b06d453d76992621c9d2ee48f5"
+          }
+        },
+        {
+          "client_id": "1089690334203-i3tvc8172817d4474kuf1nrv44a87ebf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWuyWJvVfwpDCWqlYVf-VmYeUVwrn4c7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089690334203-i3tvc8172817d4474kuf1nrv44a87ebf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
