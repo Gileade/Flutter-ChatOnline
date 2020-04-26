@@ -15,7 +15,6 @@ class TextComposer extends StatefulWidget {
 class _TextComposerState extends State<TextComposer> {
 
   final TextEditingController _controller = TextEditingController();
-
   bool _isComposed = false;
 
   void _reset(){
